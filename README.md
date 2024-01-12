@@ -1,4 +1,4 @@
-👋 Hi, I’m @Freyja-moth (She/It)
+Hi, I’m @Freyja-moth (She/It)
 
 I make completely random and cute projects in rust most of the time
 
